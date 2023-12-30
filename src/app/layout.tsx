@@ -8,7 +8,7 @@ import '@/app/globals.scss'
 
 export const metadata: Metadata = {
   title: {
-    default: 'Bing AI',
+    default: '帅帅的小站-Bing AI',
     template: `%s - Bing AI`
   },
   description: 'Bing AI Web App.',
